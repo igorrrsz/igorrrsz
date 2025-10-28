@@ -57,5 +57,3 @@ Me chamo Igor SodrÃ©, tenho 21 anos e sou natural de Porto Alegre-RS. Estudo AnÃ
 />
 
 <br/>
-
----
