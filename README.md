@@ -57,3 +57,16 @@ Me chamo Igor Sodré, tenho 21 anos e sou natural de Porto Alegre-RS. Estudo An�
 />
 
 <br/>
+
+---
+
+### 📊 Estatísticas
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorrrsz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
